@@ -14,8 +14,8 @@ A collection of old websites I've done
 ### Murn's MC - Motorbike Community
 ![Website of Murn's MC](/readmefiles/murns-mc.jpg)  
 
-### Wasting Hate - Meta band
+### Wasting Hate - Metal band
 ![Website of Wasting Hate](/readmefiles/wasting-hate_01.jpg)  
 
-### Wasting Hate - Meta band 
+### Wasting Hate - Metal band 
 ![Website of Wasting Hate](/readmefiles/wasting-hate_02.jpg)  
